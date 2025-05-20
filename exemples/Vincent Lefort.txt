@@ -1,0 +1,10 @@
+﻿Patient : Vincent Lefort, né le 30/11/1996, adresse : 15 rue des Artisans, 78300 Poissy.
+Prélèvement du 17/05/2024, laboratoire Biomed, n° d’échantillon : 540122.
+Résultats :
+* Hémoglobine : 13,6 g/dL
+
+* Leucocytes : 7 200 /mm³
+
+* CRP : 5 mg/L
+
+Le patient est invité à récupérer les résultats en personne ou à contacter le laboratoire au 01 30 65 98 77.
